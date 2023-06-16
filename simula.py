@@ -160,6 +160,8 @@ for c in range(0, len(said)):
     rows.append(dis)
 
 
+print('teste git')
+
 df = pd.DataFrame(rows)
 df.columns = ['Cliente', 
               'Chegada (s)', 
